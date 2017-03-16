@@ -1,2 +1,1 @@
-# raunakgarg.github.io
-website hosting
+<img style='width: 100%; object-fit: contain' src="resume.png"/>
